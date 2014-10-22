@@ -1,0 +1,354 @@
+<para_sentence id="NTCIR-7-JE-1593507" i_prob="" j_prob="" a_score="">
+  <i_sentence>その後、図２７に示すように、その残されたフォトレジスト膜２８ｎをエッチングマスクとして、そこから露出する上記ポリシリコン膜を除去することにより、キャパシタ孔３０内に下部電極１８ａを形成する。</i_sentence>
+  <j_sentence>Thereafter, as shown in FIG. 27, with the remaining photoresist film 28n used as an etching mask, the polysilicon film exposed therefrom is removed thereby to form a lower electrode 18a in the capacitor hole 30.</j_sentence>
+  <i_data>
+    <phrase dcand="2:25" time="1" case="時間" cat="体言" dpnd="5" type="無格" f="&lt;BGH:その後/そのご&gt;&lt;文頭&gt;&lt;強時間&gt;&lt;読点&gt;&lt;並キ:名:&amp;ST:4.0&amp;&amp;時間&gt;&lt;区切:0-4&gt;&lt;読点並キ&gt;&lt;並列タイプ:？&gt;&lt;格要素&gt;&lt;連用要素&gt;&lt;名詞項候補&gt;&lt;正規化代表表記:その後/そのご&gt;&lt;カテゴリ:時間&gt;&lt;かな漢字&gt;&lt;名詞相当語&gt;&lt;自立&gt;&lt;タグ単位始&gt;&lt;文節始&gt;&lt;文節主辞&gt;">
+      <word conj="" lem="その後/そのご" abs_wnum="0" read="そのご" pos="名詞:時相名詞" f="" content_p="1" POS="">その後</word>
+    </phrase>
+    <phrase cat="NONE" dpnd="5" type="文末" f="">
+      <word conj="" lem="、/、" abs_wnum="1" read="、" pos="特殊:読点" f="" content_p="-1" POS="">、</word>
+    </phrase>
+    <phrase cat="NONE" dpnd="3" type="基本句内" f="&lt;漢字読み:音&gt;&lt;カテゴリ:人工物-その他;抽象物&gt;&lt;正規化代表表記:図/ず&gt;&lt;漢字&gt;&lt;かな漢字&gt;&lt;名詞相当語&gt;&lt;自立&gt;&lt;タグ単位始&gt;&lt;文節始&gt;&lt;文節主辞&gt;">
+      <word conj="" lem="図/ず" abs_wnum="2" read="ず" pos="名詞:普通名詞" f="" content_p="1" POS="">図</word>
+    </phrase>
+    <phrase cat="NONE" dpnd="4" type="基本句内" f="&lt;カテゴリ:数量&gt;&lt;疑似代表表記&gt;&lt;正規化代表表記:２７/になな&gt;&lt;記英数カ&gt;&lt;数字&gt;&lt;名詞相当語&gt;&lt;付属&gt;">
+      <word conj="" lem="&lt;@num:27&gt;" abs_wnum="3" read="になな" pos="名詞:数詞" f="" content_p="1" POS="">２７</word>
+    </phrase>
+    <phrase dcand="2:25" case="ニ" cat="体言" dpnd="5" type="ニ格" f="&lt;BGH:図/ず&gt;&lt;ニ&gt;&lt;助詞&gt;&lt;一文字漢字&gt;&lt;区切:0-0&gt;&lt;格要素&gt;&lt;連用要素&gt;&lt;名詞項候補&gt;&lt;先行詞候補&gt;&lt;正規化代表表記:図/ず&gt;&lt;かな漢字&gt;&lt;ひらがな&gt;">
+      <word conj="" lem="に/に" abs_wnum="4" read="に" pos="助詞:格助詞" f="" content_p="0" POS="">に</word>
+    </phrase>
+    <phrase dcand="25" case_result="示す/しめす:動3:ガ/U/-/-/-/-;ヲ/U/-/-/-/-;ニ/C/図/1/0/NTCIR-7-JE-1593507;デ/U/-/-/-/-;時間/C/その後/0/0/NTCIR-7-JE-1593507;ノ/U/-/-/-/-" tense_future="1" level="B" cat="用言:動" dpnd="6" type="連用:〜ように" f="&lt;BGH:示す/しめす&gt;&lt;読点&gt;&lt;区切:3-5&gt;&lt;連用要素&gt;&lt;連用節&gt;&lt;動態述語&gt;&lt;節機能-目的&gt;&lt;正規化代表表記:示す/しめす&gt;&lt;用言代表表記:示す/しめす&gt;&lt;格関係0:時間:その後&gt;&lt;格関係1:ニ:図&gt;&lt;かな漢字&gt;&lt;活用語&gt;&lt;自立&gt;&lt;タグ単位始&gt;&lt;文節始&gt;&lt;文節主辞&gt;">
+      <word conj="子音動詞サ行:基本形" lem="示す/しめす" abs_wnum="5" read="しめす" pos="動詞" f="" content_p="1" POS="">示す</word>
+    </phrase>
+    <phrase cat="NONE" dpnd="45" type="文末" f="">
+      <word conj="ナ形容詞:ダ列基本連用形" lem="ようだ/ようだ" abs_wnum="6" read="ように" pos="助動詞" f="" content_p="-1" POS="">ように</word>
+    </phrase>
+    <phrase cat="NONE" dpnd="45" type="文末" f="">
+      <word conj="" lem="、/、" abs_wnum="7" read="、" pos="特殊:読点" f="" content_p="-1" POS="">、</word>
+    </phrase>
+    <phrase dcand="7" cat="NONE" dpnd="14" type="連体" f="&lt;BGH:その/その&gt;&lt;連体修飾&gt;&lt;連体詞形態指示詞&gt;&lt;区切:0-4&gt;&lt;正規化代表表記:その/その&gt;&lt;クエリ削除語&gt;&lt;疑似代表表記&gt;&lt;かな漢字&gt;&lt;ひらがな&gt;&lt;自立&gt;&lt;タグ単位始&gt;&lt;文節始&gt;&lt;文節主辞&gt;">
+      <word conj="" lem="その/その" abs_wnum="8" read="その" pos="指示詞:連体詞形態指示詞" f="" content_p="1" POS="">その</word>
+    </phrase>
+    <phrase dcand="7" case_result="残す/のこす+れる/れる:動2:ガ/N/ｎ/7/0/NTCIR-7-JE-1593507;ニ/U/-/-/-/-;ノ/U/-/-/-/-" voice="受動" level="B" cat="用言:動" tense_past="1" dpnd="14" type="連格:（動詞連体）" f="&lt;BGH:残す/のこす&gt;&lt;〜られる&gt;&lt;連体修飾&gt;&lt;区切:0-5&gt;&lt;連体節&gt;&lt;動態述語&gt;&lt;正規化代表表記:残す/のこす&gt;&lt;用言代表表記:残す/のこす+れる/れる&gt;&lt;格関係7:ガ:ｎ&gt;&lt;正規化格解析結果-0:残す/のこす:動2:ガ/N/ｎ/7/0/NTCIR-7-JE-1593507&gt;&lt;付属動詞候補（基本）&gt;&lt;自他動詞:自:残る/のこる&gt;&lt;かな漢字&gt;&lt;活用語&gt;&lt;自立&gt;&lt;タグ単位始&gt;&lt;文節始&gt;&lt;文節主辞&gt;">
+      <word conj="子音動詞サ行:未然形" lem="残す/のこす" abs_wnum="9" read="のこさ" pos="動詞" f="" content_p="1" POS="">残さ</word>
+    </phrase>
+    <phrase cat="NONE" dpnd="9" type="基本句内" f="&lt;正規化代表表記:れる/れる&gt;&lt;かな漢字&gt;&lt;ひらがな&gt;&lt;活用語&gt;">
+      <word conj="母音動詞:タ形" lem="れる/れる" abs_wnum="10" read="れた" pos="接尾辞:動詞性接尾辞" f="" content_p="0" POS="">れた</word>
+    </phrase>
+    <phrase cat="体言" dpnd="12" type="文節内" f="&lt;文節内&gt;&lt;名詞項候補&gt;&lt;先行詞候補&gt;&lt;正規化代表表記:フォトレジスト/フォトレジスト&gt;&lt;Wikipedia上位語:組成物&gt;&lt;自動獲得:Wikipedia&gt;&lt;疑似代表表記&gt;&lt;記英数カ&gt;&lt;カタカナ&gt;&lt;名詞相当語&gt;&lt;自立&gt;&lt;タグ単位始&gt;&lt;文節始&gt;&lt;固有キー&gt;">
+      <word conj="" lem="フォトレジスト/フォトレジスト" abs_wnum="11" read="フォトレジスト" pos="名詞:普通名詞" f="" content_p="1" POS="">フォトレジスト</word>
+    </phrase>
+    <phrase cat="NONE" dpnd="13" type="基本句内" f="&lt;漢字読み:音&gt;&lt;カテゴリ:動物-部位;植物-部位&gt;&lt;正規化代表表記:膜/まく&gt;&lt;漢字&gt;&lt;かな漢字&gt;&lt;名詞相当語&gt;&lt;自立&gt;&lt;複合←&gt;&lt;タグ単位始&gt;">
+      <word conj="" lem="膜/まく" abs_wnum="12" read="まく" pos="名詞:普通名詞" f="" content_p="1" POS="">膜</word>
+    </phrase>
+    <phrase cat="体言" dpnd="14" type="文節内" f="&lt;SM-動作&gt;&lt;BGH:膜/まく&gt;&lt;文節内&gt;&lt;一文字漢字&gt;&lt;名詞項候補&gt;&lt;先行詞候補&gt;&lt;正規化代表表記:２８/にはち&gt;&lt;カテゴリ:数量&gt;&lt;疑似代表表記&gt;&lt;記英数カ&gt;&lt;数字&gt;&lt;名詞相当語&gt;&lt;付属&gt;&lt;複合←&gt;">
+      <word conj="" lem="&lt;@num:28&gt;" abs_wnum="13" read="にはち" pos="名詞:数詞" f="" content_p="1" POS="">２８</word>
+    </phrase>
+    <phrase cat="NONE" dpnd="45" type="基本句内" f="&lt;品曖&gt;&lt;ALT-ｎ-ｎ-ｎ-15-3-0-0-&quot;疑似代表表記 代表表記:ｎ/ｎ&quot;&gt;&lt;疑似代表表記&gt;&lt;品曖-記号&gt;&lt;品曖-アルファベット&gt;&lt;記英数カ&gt;&lt;英記号&gt;&lt;自立&gt;&lt;複合←&gt;&lt;タグ単位始&gt;&lt;文節主辞&gt;">
+      <word conj="" lem="ｎ/ｎ" abs_wnum="14" read="ｎ" pos="特殊:記号" f="" content_p="1" POS="">ｎ</word>
+    </phrase>
+    <phrase dcand="10:25" case="ヲ" cat="体言" dpnd="19" type="ヲ格" f="&lt;ヲ&gt;&lt;助詞&gt;&lt;区切:0-0&gt;&lt;格要素&gt;&lt;連用要素&gt;&lt;名詞項候補&gt;&lt;先行詞候補&gt;&lt;解析連格:ガ&gt;&lt;かな漢字&gt;&lt;ひらがな&gt;">
+      <word conj="" lem="を/を" abs_wnum="15" read="を" pos="助詞:格助詞" f="" content_p="0" POS="">を</word>
+    </phrase>
+    <phrase cat="体言" dpnd="17" type="文節内" f="&lt;BGH:エッチング/えっちんぐ&gt;&lt;文節内&gt;&lt;名詞項候補&gt;&lt;先行詞候補&gt;&lt;正規化代表表記:エッチング/えっちんぐ&gt;&lt;カテゴリ:人工物-その他;抽象物&gt;&lt;ドメイン:文化・芸術&gt;&lt;記英数カ&gt;&lt;カタカナ&gt;&lt;名詞相当語&gt;&lt;自立&gt;&lt;タグ単位始&gt;&lt;文節始&gt;&lt;固有キー&gt;">
+      <word conj="" lem="エッチング/えっちんぐ" abs_wnum="16" read="えっちんぐ" pos="名詞:普通名詞" f="" content_p="1" POS="">エッチング</word>
+    </phrase>
+    <phrase cat="NONE" dpnd="18" type="基本句内" f="&lt;カテゴリ:人工物-衣類&gt;&lt;ドメイン:健康・医学;家庭・暮らし&gt;&lt;正規化代表表記:マスク/ますく&gt;&lt;記英数カ&gt;&lt;カタカナ&gt;&lt;名詞相当語&gt;&lt;自立&gt;&lt;複合←&gt;&lt;タグ単位始&gt;&lt;固有キー&gt;&lt;文節主辞&gt;">
+      <word conj="" lem="マスク/ますく" abs_wnum="17" read="ますく" pos="名詞:普通名詞" f="" content_p="1" POS="">マスク</word>
+    </phrase>
+    <phrase dcand="10:25" case="ト" cat="体言" dpnd="19" type="ト格" f="&lt;BGH:マスク/ますく&gt;&lt;ト&gt;&lt;助詞&gt;&lt;並キ:名:&amp;ST:5.0&gt;&lt;区切:1-4&gt;&lt;並列タイプ:AND&gt;&lt;隣係絶対&gt;&lt;格要素&gt;&lt;連用要素&gt;&lt;名詞項候補&gt;&lt;先行詞候補&gt;&lt;正規化代表表記:マスク/ますく&gt;&lt;かな漢字&gt;&lt;ひらがな&gt;">
+      <word conj="" lem="と/と" abs_wnum="18" read="と" pos="助詞:格助詞" f="" content_p="0" POS="">と</word>
+    </phrase>
+    <phrase dcand="12:16:25" case_result="する/する:動393:ガ/U/-/-/-/-;ヲ/C/ｎ/7/0/NTCIR-7-JE-1593507;ト/C/マスク/9/0/NTCIR-7-JE-1593507" level="A-" cat="用言:動" dpnd="5" type="連用" f="&lt;BGH:する/する&gt;&lt;読点&gt;&lt;受:二つ前&gt;&lt;隣受絶対&gt;&lt;並キ:？:&amp;ST:3.0&amp;&amp;&amp;自立語一致&gt;&lt;区切:0-3&gt;&lt;連用要素&gt;&lt;動態述語&gt;&lt;省略解析なし&gt;&lt;正規化代表表記:する/する&gt;&lt;用言代表表記:する/する&gt;&lt;格関係7:ヲ:ｎ&gt;&lt;格関係9:ト:マスク&gt;&lt;付属動詞候補（基本）&gt;&lt;自他動詞:自:成る/なる&gt;&lt;かな漢字&gt;&lt;ひらがな&gt;&lt;活用語&gt;&lt;とタ系連用テ形複合辞&gt;&lt;自立&gt;&lt;タグ単位始&gt;&lt;文節始&gt;&lt;文節主辞&gt;">
+      <word conj="サ変動詞:タ系連用テ形" lem="する/する" abs_wnum="19" read="して" pos="動詞" f="" content_p="1" POS="">して</word>
+    </phrase>
+    <phrase cat="NONE" dpnd="45" type="文末" f="">
+      <word conj="" lem="、/、" abs_wnum="20" read="、" pos="特殊:読点" f="" content_p="-1" POS="">、</word>
+    </phrase>
+    <phrase cat="NONE" dpnd="22" type="基本句内" f="&lt;疑似代表表記&gt;&lt;正規化代表表記:そこ/そこ&gt;&lt;かな漢字&gt;&lt;ひらがな&gt;&lt;自立&gt;&lt;タグ単位始&gt;&lt;文節始&gt;&lt;文節主辞&gt;">
+      <word conj="" lem="そこ/そこ" abs_wnum="21" read="そこ" pos="指示詞:名詞形態指示詞" f="" content_p="1" POS="">そこ</word>
+    </phrase>
+    <phrase dcand="12:16:25" case="カラ" cat="体言" dpnd="28" type="カラ格" f="&lt;BGH:そこ/そこ&gt;&lt;カラ&gt;&lt;助詞&gt;&lt;指示詞&gt;&lt;並キ:名:&amp;ST:4.0&amp;&amp;カラ||&amp;ST:4.0&amp;&amp;ニ||&amp;ST:4.0&amp;&amp;マデ||&amp;ST:4.0&amp;&amp;ヘ||&amp;ST:4.0&amp;&amp;デ||&amp;ST:4.0&amp;&amp;用言:判||&amp;ST:6.0&amp;&amp;係:ノ格||&amp;ST:4.0&amp;&amp;係:ノ格&amp;&amp;^&amp;D:1&gt;&lt;区切:1-4&gt;&lt;並列タイプ:OTHER&gt;&lt;格要素&gt;&lt;連用要素&gt;&lt;名詞項候補&gt;&lt;正規化代表表記:そこ/そこ&gt;&lt;クエリ削除語&gt;&lt;かな漢字&gt;&lt;ひらがな&gt;">
+      <word conj="" lem="から/から" abs_wnum="22" read="から" pos="助詞:格助詞" f="" content_p="0" POS="">から</word>
+    </phrase>
+    <phrase dcand="15" case_result="露出/ろしゅつ:動12:ガ/N/膜/15/0/NTCIR-7-JE-1593507;ニ/U/-/-/-/-;カラ/C/そこ/11/0/NTCIR-7-JE-1593507;ノ/U/-/-/-/-;ガ２/U/-/-/-/-" tense_future="1" level="B" cat="用言:動" dpnd="22" type="連格:（動詞連体）" f="&lt;BGH:露出/ろしゅつ+する/する&gt;&lt;サ変動詞&gt;&lt;連体修飾&gt;&lt;区切:0-5&gt;&lt;連体節&gt;&lt;動態述語&gt;&lt;サ変&gt;&lt;正規化代表表記:露出/ろしゅつ&gt;&lt;用言代表表記:露出/ろしゅつ&gt;&lt;格関係11:カラ:そこ&gt;&lt;格関係15:ガ:膜&gt;&lt;カテゴリ:抽象物&gt;&lt;漢字&gt;&lt;かな漢字&gt;&lt;名詞相当語&gt;&lt;自立&gt;&lt;タグ単位始&gt;&lt;文節始&gt;&lt;文節主辞&gt;">
+      <word conj="" lem="露出/ろしゅつ" abs_wnum="23" read="ろしゅつ" pos="名詞:サ変名詞" f="" content_p="1" POS="">露出</word>
+    </phrase>
+    <phrase cat="NONE" dpnd="23" type="基本句内" f="&lt;付属動詞候補（基本）&gt;&lt;自他動詞:自:成る/なる&gt;&lt;正規化代表表記:する/する&gt;&lt;かな漢字&gt;&lt;ひらがな&gt;&lt;活用語&gt;&lt;とタ系連用テ形複合辞&gt;">
+      <word conj="サ変動詞:基本形" lem="する/する" abs_wnum="24" read="する" pos="動詞" f="" content_p="0" POS="">する</word>
+    </phrase>
+    <phrase cat="体言" dpnd="26" type="文節内" f="&lt;BGH:上記/じょうき&gt;&lt;文節内&gt;&lt;名詞項候補&gt;&lt;先行詞候補&gt;&lt;正規化代表表記:上記/じょうき&gt;&lt;カテゴリ:抽象物&gt;&lt;漢字&gt;&lt;かな漢字&gt;&lt;名詞相当語&gt;&lt;自立&gt;&lt;タグ単位始&gt;&lt;文節始&gt;">
+      <word conj="" lem="上記/じょうき" abs_wnum="25" read="じょうき" pos="名詞:普通名詞" f="" content_p="1" POS="">上記</word>
+    </phrase>
+    <phrase voice="未定" cat="体言" dpnd="27" type="文節内" f="&lt;文節内&gt;&lt;サ変&gt;&lt;名詞項候補&gt;&lt;先行詞候補&gt;&lt;非用言格解析:動&gt;&lt;照応ヒント:係&gt;&lt;正規化代表表記:ポリシリコン/ポリシリコン&gt;&lt;疑似代表表記&gt;&lt;品詞変更:ポリシリコン-ポリシリコン-ポリシリコン-15-2-0-0-&quot;疑似代表表記 代表表記:ポリシリコン/ポリシリコン&quot;&gt;&lt;品曖-カタカナ&gt;&lt;未知語&gt;&lt;記英数カ&gt;&lt;カタカナ&gt;&lt;名詞相当語&gt;&lt;自立&gt;&lt;複合←&gt;&lt;タグ単位始&gt;&lt;固有キー&gt;">
+      <word conj="" lem="ポリシリコン/ポリシリコン" abs_wnum="26" read="ポリシリコン" pos="名詞:サ変名詞" f="" content_p="1" POS="">ポリシリコン</word>
+    </phrase>
+    <phrase cat="NONE" dpnd="23" type="基本句内" f="&lt;漢字読み:音&gt;&lt;カテゴリ:動物-部位;植物-部位&gt;&lt;正規化代表表記:膜/まく&gt;&lt;漢字&gt;&lt;かな漢字&gt;&lt;名詞相当語&gt;&lt;自立&gt;&lt;複合←&gt;&lt;タグ単位始&gt;&lt;文節主辞&gt;">
+      <word conj="" lem="膜/まく" abs_wnum="27" read="まく" pos="名詞:普通名詞" f="" content_p="1" POS="">膜</word>
+    </phrase>
+    <phrase dcand="16:25" case="ヲ" cat="体言" dpnd="29" type="ヲ格" f="&lt;SM-動作&gt;&lt;BGH:膜/まく&gt;&lt;ヲ&gt;&lt;助詞&gt;&lt;区切:0-0&gt;&lt;格要素&gt;&lt;連用要素&gt;&lt;一文字漢字&gt;&lt;名詞項候補&gt;&lt;先行詞候補&gt;&lt;正規化代表表記:膜/まく&gt;&lt;解析連格:ガ&gt;&lt;かな漢字&gt;&lt;ひらがな&gt;">
+      <word conj="" lem="を/を" abs_wnum="28" read="を" pos="助詞:格助詞" f="" content_p="0" POS="">を</word>
+    </phrase>
+    <phrase dcand="17" case_result="除去/じょきょ:動4:ガ/U/-/-/-/-;ヲ/C/膜/15/0/NTCIR-7-JE-1593507;外の関係/N/こと/17/0/NTCIR-7-JE-1593507;ノ/U/-/-/-/-" tense_future="1" level="B" cat="用言:動" dpnd="31" type="連格:（動詞連体形副名）" f="&lt;BGH:除去/じょきょ+する/する&gt;&lt;サ変動詞&gt;&lt;連体修飾&gt;&lt;区切:0-5&gt;&lt;提題受:10&gt;&lt;連体節&gt;&lt;動態述語&gt;&lt;サ変&gt;&lt;正規化代表表記:除去/じょきょ&gt;&lt;用言代表表記:除去/じょきょ&gt;&lt;格関係15:ヲ:膜&gt;&lt;格関係17:外の関係:こと&gt;&lt;カテゴリ:抽象物&gt;&lt;漢字&gt;&lt;かな漢字&gt;&lt;名詞相当語&gt;&lt;自立&gt;&lt;タグ単位始&gt;&lt;文節始&gt;&lt;文節主辞&gt;">
+      <word conj="" lem="除去/じょきょ" abs_wnum="29" read="じょきょ" pos="名詞:サ変名詞" f="" content_p="1" POS="">除去</word>
+    </phrase>
+    <phrase cat="NONE" dpnd="29" type="基本句内" f="&lt;付属動詞候補（基本）&gt;&lt;自他動詞:自:成る/なる&gt;&lt;正規化代表表記:する/する&gt;&lt;かな漢字&gt;&lt;ひらがな&gt;&lt;活用語&gt;&lt;とタ系連用テ形複合辞&gt;">
+      <word conj="サ変動詞:基本形" lem="する/する" abs_wnum="30" read="する" pos="動詞" f="" content_p="0" POS="">する</word>
+    </phrase>
+    <phrase cat="NONE" dpnd="32" type="基本句内" f="&lt;連語&gt;&lt;疑似代表表記&gt;&lt;正規化代表表記:こと/こと&gt;&lt;かな漢字&gt;&lt;ひらがな&gt;&lt;名詞相当語&gt;&lt;形副名詞&gt;&lt;自立&gt;&lt;タグ単位始&gt;&lt;文節始&gt;&lt;文節主辞&gt;">
+      <word conj="" lem="こと/こと" abs_wnum="31" read="こと" pos="名詞:形式名詞" f="" content_p="1" POS="">こと</word>
+    </phrase>
+    <phrase dcand="18:25" case="ニヨル" cat="体言" dpnd="33" type="ニ格" f="&lt;形副名詞&gt;&lt;外の関係&gt;&lt;ニ&gt;&lt;助詞&gt;&lt;機能的基本句&gt;&lt;区切:0-0&gt;&lt;隣係絶対&gt;&lt;補文&gt;&lt;格要素&gt;&lt;連用要素&gt;&lt;名詞項候補&gt;&lt;正規化代表表記:こと/こと&gt;&lt;クエリ削除語&gt;&lt;解析連格:外の関係&gt;&lt;連語&gt;&lt;かな漢字&gt;&lt;ひらがな&gt;">
+      <word conj="" lem="に/に" abs_wnum="32" read="に" pos="助詞:格助詞" f="" content_p="0" POS="">に</word>
+    </phrase>
+    <phrase dcand="25" complex="1" level="A-" cat="用言:動" dpnd="45" type="複合辞連用:〜によって" f="&lt;読点&gt;&lt;受:隣のみ&gt;&lt;隣受絶対&gt;&lt;並キ:？:&amp;ST:3.0&amp;&amp;&amp;自立語一致&gt;&lt;区切:0-3&gt;&lt;動態述語&gt;&lt;機能的基本句&gt;&lt;格解析なし&gt;&lt;省略解析なし&gt;&lt;格要素表記直前参照&gt;&lt;正規化代表表記:よる/よる&gt;&lt;連語&gt;&lt;疑似代表表記&gt;&lt;かな漢字&gt;&lt;ひらがな&gt;&lt;活用語&gt;&lt;に基本形複合辞&gt;&lt;に基本連用形複合辞&gt;&lt;にタ系連用テ形複合辞&gt;&lt;自立&gt;&lt;タグ単位始&gt;&lt;文節始&gt;&lt;文節主辞&gt;">
+      <word conj="子音動詞ラ行:基本連用形" lem="よる/よる" abs_wnum="33" read="より" pos="動詞" f="" content_p="1" POS="">より</word>
+    </phrase>
+    <phrase cat="NONE" dpnd="45" type="文末" f="">
+      <word conj="" lem="、/、" abs_wnum="34" read="、" pos="特殊:読点" f="" content_p="-1" POS="">、</word>
+    </phrase>
+    <phrase cat="体言" dpnd="36" type="文節内" f="&lt;文節内&gt;&lt;名詞項候補&gt;&lt;先行詞候補&gt;&lt;正規化代表表記:キャパシタ/キャパシタ&gt;&lt;Wikipediaリダイレクト:コンデンサ&gt;&lt;自動獲得:Wikipedia&gt;&lt;疑似代表表記&gt;&lt;記英数カ&gt;&lt;カタカナ&gt;&lt;名詞相当語&gt;&lt;自立&gt;&lt;タグ単位始&gt;&lt;文節始&gt;&lt;固有キー&gt;">
+      <word conj="" lem="キャパシタ/キャパシタ" abs_wnum="35" read="キャパシタ" pos="名詞:普通名詞" f="" content_p="1" POS="">キャパシタ</word>
+    </phrase>
+    <phrase dcand="21:25" cat="体言" dpnd="37" type="隣" f="&lt;裸名詞&gt;&lt;区切:0-0&gt;&lt;一文字漢字&gt;&lt;名詞項候補&gt;&lt;先行詞候補&gt;&lt;正規化代表表記:孔/孔&gt;&lt;副詞識別&gt;&lt;自動獲得:テキスト&gt;&lt;疑似代表表記&gt;&lt;漢字&gt;&lt;かな漢字&gt;&lt;名詞相当語&gt;&lt;自立&gt;&lt;複合←&gt;&lt;タグ単位始&gt;&lt;文節主辞&gt;">
+      <word conj="" lem="孔/孔" abs_wnum="36" read="孔" pos="名詞:普通名詞" f="" content_p="1" POS="">孔</word>
+    </phrase>
+    <phrase cat="NONE" dpnd="43" type="基本句内" f="&lt;カテゴリ:数量&gt;&lt;疑似代表表記&gt;&lt;正規化代表表記:３０/さんぜろ&gt;&lt;記英数カ&gt;&lt;数字&gt;&lt;名詞相当語&gt;&lt;自立&gt;&lt;タグ単位始&gt;&lt;文節始&gt;&lt;文節主辞&gt;">
+      <word conj="" lem="&lt;@num:30&gt;" abs_wnum="37" read="さんぜろ" pos="名詞:数詞" f="" content_p="1" POS="">３０</word>
+    </phrase>
+    <phrase cat="NONE" dpnd="39" type="基本句内" f="&lt;正規化代表表記:内/ない&gt;&lt;カウンタ&gt;&lt;漢字&gt;&lt;かな漢字&gt;&lt;名詞相当語&gt;">
+      <word conj="" lem="内/ない" abs_wnum="38" read="ない" pos="接尾辞:名詞性名詞接尾辞" f="" content_p="0" POS="">内</word>
+    </phrase>
+    <phrase dcand="25" case="ニ" cat="体言" dpnd="43" type="ニ格" f="&lt;カウンタ:内&gt;&lt;数量&gt;&lt;ニ&gt;&lt;助詞&gt;&lt;区切:0-0&gt;&lt;格要素&gt;&lt;連用要素&gt;&lt;名詞項候補&gt;&lt;先行詞候補&gt;&lt;省略解析なし&gt;&lt;正規化代表表記:３０/さんぜろ&gt;&lt;品曖&gt;&lt;ALT-に-に-に-9-3-0-0-NIL&gt;&lt;品曖-格助詞&gt;&lt;品曖-接続助詞&gt;&lt;かな漢字&gt;&lt;ひらがな&gt;">
+      <word conj="" lem="に/に" abs_wnum="39" read="に" pos="助詞:格助詞" f="" content_p="0" POS="">に</word>
+    </phrase>
+    <phrase cat="体言" dpnd="41" type="文節内" f="&lt;BGH:下部/かぶ&gt;&lt;文節内&gt;&lt;名詞項候補&gt;&lt;先行詞候補&gt;&lt;正規化代表表記:下部/かぶ&gt;&lt;カテゴリ:抽象物&gt;&lt;漢字&gt;&lt;かな漢字&gt;&lt;名詞相当語&gt;&lt;自立&gt;&lt;タグ単位始&gt;&lt;文節始&gt;">
+      <word conj="" lem="下部/かぶ" abs_wnum="40" read="かぶ" pos="名詞:普通名詞" f="" content_p="1" POS="">下部</word>
+    </phrase>
+    <phrase dcand="24:25" case="ヲ" cat="体言" dpnd="44" type="隣" f="&lt;BGH:電極/でんきょく&gt;&lt;裸名詞&gt;&lt;区切:0-0&gt;&lt;名詞項候補&gt;&lt;先行詞候補&gt;&lt;正規化代表表記:電極/でんきょく&gt;&lt;カテゴリ:人工物-その他&gt;&lt;ドメイン:科学・技術&gt;&lt;漢字&gt;&lt;かな漢字&gt;&lt;名詞相当語&gt;&lt;自立&gt;&lt;複合←&gt;&lt;タグ単位始&gt;&lt;文節主辞&gt;">
+      <word conj="" lem="電極/でんきょく" abs_wnum="41" read="でんきょく" pos="名詞:普通名詞" f="" content_p="1" POS="">電極</word>
+    </phrase>
+    <phrase cat="NONE" dpnd="43" type="基本句内" f="&lt;カテゴリ:数量&gt;&lt;疑似代表表記&gt;&lt;正規化代表表記:１８/いちはち&gt;&lt;記英数カ&gt;&lt;数字&gt;&lt;名詞相当語&gt;&lt;自立&gt;&lt;タグ単位始&gt;&lt;文節始&gt;">
+      <word conj="" lem="&lt;@num:18&gt;" abs_wnum="42" read="いちはち" pos="名詞:数詞" f="" content_p="1" POS="">１８</word>
+    </phrase>
+    <phrase cat="NONE" dpnd="41" type="基本句内" f="&lt;正規化代表表記:アール/あーる&gt;&lt;カウンタ&gt;&lt;記英数カ&gt;&lt;英記号&gt;&lt;付属&gt;&lt;文節主辞&gt;">
+      <word conj="" lem="アール/あーる" abs_wnum="43" read="あーる" pos="接尾辞:名詞性名詞助数辞" f="" content_p="1" POS="">ａ</word>
+    </phrase>
+    <phrase dcand="25" cat="体言" dpnd="45" type="ヲ格" f="&lt;BGH:アール/あーる&gt;&lt;カウンタ:ａ&gt;&lt;数量&gt;&lt;ヲ&gt;&lt;助詞&gt;&lt;区切:0-0&gt;&lt;格要素&gt;&lt;連用要素&gt;&lt;省略解析なし&gt;&lt;正規化代表表記:１８/いちはち+アール/あーる&gt;&lt;かな漢字&gt;&lt;ひらがな&gt;">
+      <word conj="" lem="を/を" abs_wnum="44" read="を" pos="助詞:格助詞" f="" content_p="0" POS="">を</word>
+    </phrase>
+    <phrase case_result="形成/けいせい:動2:ガ/U/-/-/-/-;ヲ/C/電極/23/0/NTCIR-7-JE-1593507;ニ/C/３０/21/0/NTCIR-7-JE-1593507;デ/U/-/-/-/-;ノ/U/-/-/-/-;ニヨル/C/こと/17/0/NTCIR-7-JE-1593507" tense_future="1" level="C" cat="用言:動" dpnd="-1" type="文末:（文末）" f="&lt;BGH:形成/けいせい+する/する&gt;&lt;文末&gt;&lt;サ変動詞&gt;&lt;句点&gt;&lt;区切:5-5&gt;&lt;提題受:30&gt;&lt;主節&gt;&lt;格要素&gt;&lt;連用要素&gt;&lt;動態述語&gt;&lt;サ変&gt;&lt;正規化代表表記:形成/けいせい&gt;&lt;用言代表表記:形成/けいせい&gt;&lt;主題格:一人称優位&gt;&lt;格関係17:ニヨル:こと&gt;&lt;格関係21:ニ:３０&gt;&lt;格関係23:ヲ:電極&gt;&lt;カテゴリ:抽象物&gt;&lt;漢字&gt;&lt;かな漢字&gt;&lt;名詞相当語&gt;&lt;自立&gt;&lt;タグ単位始&gt;&lt;文節始&gt;&lt;文節主辞&gt;">
+      <word conj="" lem="形成/けいせい" abs_wnum="45" read="けいせい" pos="名詞:サ変名詞" f="" content_p="1" POS="">形成</word>
+    </phrase>
+    <phrase cat="NONE" dpnd="45" type="基本句内" f="&lt;付属動詞候補（基本）&gt;&lt;自他動詞:自:成る/なる&gt;&lt;正規化代表表記:する/する&gt;&lt;かな漢字&gt;&lt;ひらがな&gt;&lt;活用語&gt;&lt;表現文末&gt;&lt;とタ系連用テ形複合辞&gt;">
+      <word conj="サ変動詞:基本形" lem="する/する" abs_wnum="46" read="する" pos="動詞" f="" content_p="0" POS="">する</word>
+    </phrase>
+    <phrase cat="NONE" dpnd="45" type="基本句内" f="&lt;英記号&gt;&lt;記号&gt;&lt;文末&gt;">
+      <word conj="" lem="。/。" abs_wnum="47" read="。" pos="特殊:句点" f="" content_p="0" POS="">。</word>
+    </phrase>
+  </i_data>
+  <j_data>
+    <phrase dpnd_cand="26:0.352269,23:0.647731" cat="ADVP" dpnd="26" role="" f="ADVP:RB/Thereafter/0">
+      <word conj="" lem="thereafter" abs_wnum="0" read="" pos="RB" f="" content_p="1" POS="ADVP:RB/Thereafter/0">thereafter</word>
+    </phrase>
+    <phrase dpnd_cand="26:0.352269,23:0.647731" cat="," dpnd="26" role="" f=",/,/1">
+      <word conj="" lem="," abs_wnum="1" read="" pos="," f="" content_p="1" POS=",/,/1">,</word>
+    </phrase>
+    <phrase dpnd_cand="26:0.352269,23:0.647731" cat="SBAR" dpnd="29" role="" f="SBAR:IN/as/2">
+      <word conj="" lem="as" abs_wnum="2" read="" pos="IN" f="" content_p="0" POS="SBAR:IN/as/2">as</word>
+    </phrase>
+    <phrase cat="S" dpnd="2" role="" f="S:VP:VBN/shown/3">
+      <word conj="" lem="show" abs_wnum="3" read="" pos="VBN" f="" content_p="1" POS="S:VP:VBN/shown/3">shown</word>
+    </phrase>
+    <phrase cat="PP" dpnd="3" role="" f="PP:IN/in/4">
+      <word conj="" lem="in" abs_wnum="4" read="" pos="IN" f="" content_p="0" POS="PP:IN/in/4">in</word>
+    </phrase>
+    <phrase cat="NNP" dpnd="6" role="" f="NNP/FIG./5">
+      <word conj="" lem="fig." abs_wnum="5" read="" pos="NNP" f="" content_p="1" POS="NNP/FIG./5">FIG.</word>
+    </phrase>
+    <phrase cat="NP" dpnd="4" role="" f="NP:CD/27/6">
+      <word conj="" lem="&lt;@num-no:27&gt;" abs_wnum="6" read="" pos="CD" f="" content_p="1" POS="NP:CD/27/6">27</word>
+    </phrase>
+    <phrase dpnd_cand="3:0.934060,26:0.056214,23:0.009726" cat="," dpnd="3" role="" f=",/,/7">
+      <word conj="" lem="," abs_wnum="7" read="" pos="," f="" content_p="1" POS=",/,/7">,</word>
+    </phrase>
+    <phrase dpnd_cand="3:0.934060,26:0.056214,23:0.009726" cat="PP" dpnd="14" role="" f="PP:IN/with/8">
+      <word conj="" lem="with" abs_wnum="8" read="" pos="IN" f="" content_p="0" POS="PP:IN/with/8">with</word>
+    </phrase>
+    <phrase cat="DT" dpnd="13" role="" f="DT/the/9">
+      <word conj="" lem="the" abs_wnum="9" read="" pos="DT" f="" content_p="1" POS="DT/the/9">the</word>
+    </phrase>
+    <phrase cat="VBG" dpnd="13" role="" f="VBG/remaining/10">
+      <word conj="" lem="remain" abs_wnum="10" read="" pos="VBG" f="" content_p="1" POS="VBG/remaining/10">remaining</word>
+    </phrase>
+    <phrase cat="NN" dpnd="12" role="" f="NN/photoresist/11">
+      <word conj="" lem="photoresist" abs_wnum="11" read="" pos="NN" f="" content_p="1" POS="NN/photoresist/11">photoresist</word>
+    </phrase>
+    <phrase cat="NN" dpnd="13" role="" f="NN/film/12">
+      <word conj="" lem="film" abs_wnum="12" read="" pos="NN" f="" content_p="1" POS="NN/film/12">film</word>
+    </phrase>
+    <phrase cat="NP" dpnd="29" role="" f="NP:NP:NNS/28n/13">
+      <word conj="" lem="&lt;@num-sp:28&gt;n" abs_wnum="13" read="" pos="NNS" f="" content_p="1" POS="NP:NP:NNS/28n/13">28n</word>
+    </phrase>
+    <phrase cat="VP" dpnd="3" role="" f="VP:VBN/used/14">
+      <word conj="" lem="use" abs_wnum="14" read="" pos="VBN" f="" content_p="1" POS="VP:VBN/used/14">used</word>
+    </phrase>
+    <phrase cat="PP" dpnd="14" role="" f="PP:IN/as/15">
+      <word conj="" lem="as" abs_wnum="15" read="" pos="IN" f="" content_p="0" POS="PP:IN/as/15">as</word>
+    </phrase>
+    <phrase cat="DT" dpnd="18" role="" f="DT/an/16">
+      <word conj="" lem="an" abs_wnum="16" read="" pos="DT" f="" content_p="1" POS="DT/an/16">an</word>
+    </phrase>
+    <phrase cat="JJ" dpnd="18" role="" f="JJ/etching/17">
+      <word conj="" lem="etch" abs_wnum="17" read="" pos="JJ" f="" content_p="1" POS="JJ/etching/17">etching</word>
+    </phrase>
+    <phrase cat="NP" dpnd="15" role="" f="NP:NN/mask/18">
+      <word conj="" lem="masque" abs_wnum="18" read="" pos="NN" f="" content_p="1" POS="NP:NN/mask/18">mask</word>
+    </phrase>
+    <phrase dpnd_cand="26:0.352269,23:0.647731" cat="," dpnd="26" role="" f=",/,/19">
+      <word conj="" lem="," abs_wnum="19" read="" pos="," f="" content_p="1" POS=",/,/19">,</word>
+    </phrase>
+    <phrase dpnd_cand="22:0.647731,24:0.352269" cat="DT" dpnd="24" role="" f="DT/the/20">
+      <word conj="" lem="the" abs_wnum="20" read="" pos="DT" f="" content_p="1" POS="DT/the/20">the</word>
+    </phrase>
+    <phrase cat="NN" dpnd="22" role="" f="NN/polysilicon/21">
+      <word conj="" lem="polysilicon" abs_wnum="21" read="" pos="NN" f="" content_p="1" POS="NN/polysilicon/21">polysilicon</word>
+    </phrase>
+    <phrase cat="NN" dpnd="23" role="" f="NN/film/22">
+      <word conj="" lem="film" abs_wnum="22" read="" pos="NN" f="" content_p="1" POS="NN/film/22">film</word>
+    </phrase>
+    <phrase dpnd_cand="24:0.352269,-1:0.647731" cat="VBN" dpnd="24" role="" f="VBN/exposed/23">
+      <word conj="" lem="expose" abs_wnum="23" read="" pos="VBN" f="" content_p="1" POS="VBN/exposed/23">exposed</word>
+    </phrase>
+    <phrase cat="NP" dpnd="26" role="sbj" f="NP:NN/therefrom/24">
+      <word conj="" lem="therefrom" abs_wnum="24" read="" pos="NN" f="" content_p="1" POS="NP:NN/therefrom/24">therefrom</word>
+    </phrase>
+    <phrase cat="AUX" dpnd="26" role="" f="AUX/is/25">
+      <word conj="" lem="be" abs_wnum="25" read="" pos="AUX" f="" content_p="1" POS="AUX/is/25">is</word>
+    </phrase>
+    <phrase dpnd_cand="23:0.647731,-1:0.352269" cat="S1" dpnd="-1" role="" f="S1:S:VP:VP:VBN/removed/26">
+      <word conj="" lem="remove" abs_wnum="26" read="" pos="VBN" f="" content_p="1" POS="S1:S:VP:VP:VBN/removed/26">removed</word>
+    </phrase>
+    <phrase dpnd_cand="28:0.070090,26:0.929910" cat="ADVP" dpnd="26" role="" f="ADVP:RB/thereby/27">
+      <word conj="" lem="thereby" abs_wnum="27" read="" pos="RB" f="" content_p="1" POS="ADVP:RB/thereby/27">thereby</word>
+    </phrase>
+    <phrase cat="S" dpnd="26" role="" f="S:VP:TO/to/28">
+      <word conj="" lem="to" abs_wnum="28" read="" pos="TO" f="" content_p="0" POS="S:VP:TO/to/28">to</word>
+    </phrase>
+    <phrase cat="VP" dpnd="28" role="" f="VP:VB/form/29">
+      <word conj="" lem="form" abs_wnum="29" read="" pos="VB" f="" content_p="1" POS="VP:VB/form/29">form</word>
+    </phrase>
+    <phrase dpnd_cand="33:0.076049,32:0.923951" cat="DT" dpnd="32" role="" f="DT/a/30">
+      <word conj="" lem="a" abs_wnum="30" read="" pos="DT" f="" content_p="1" POS="DT/a/30">a</word>
+    </phrase>
+    <phrase cat="JJR" dpnd="32" role="" f="JJR/lower/31">
+      <word conj="" lem="low" abs_wnum="31" read="" pos="JJR" f="" content_p="1" POS="JJR/lower/31">lower</word>
+    </phrase>
+    <phrase dpnd_cand="33:0.076049,29:0.923951" cat="NP" dpnd="29" role="" f="NP:NP:NN/electrode/32">
+      <word conj="" lem="electrode" abs_wnum="32" read="" pos="NN" f="" content_p="1" POS="NP:NP:NN/electrode/32">electrode</word>
+    </phrase>
+    <phrase dpnd_cand="32:0.923951,29:0.076049" cat="VP" dpnd="32" role="" f="VP:VBN/18a/33">
+      <word conj="" lem="&lt;@num-sp:18&gt;a" abs_wnum="33" read="" pos="VBN" f="" content_p="1" POS="VP:VBN/18a/33">18a</word>
+    </phrase>
+    <phrase cat="PP" dpnd="33" role="" f="PP:IN/in/34">
+      <word conj="" lem="in" abs_wnum="34" read="" pos="IN" f="" content_p="0" POS="PP:IN/in/34">in</word>
+    </phrase>
+    <phrase dpnd_cand="38:0.106721,37:0.893279" cat="DT" dpnd="37" role="" f="DT/the/35">
+      <word conj="" lem="the" abs_wnum="35" read="" pos="DT" f="" content_p="1" POS="DT/the/35">the</word>
+    </phrase>
+    <phrase cat="NN" dpnd="37" role="" f="NN/capacitor/36">
+      <word conj="" lem="capacitor" abs_wnum="36" read="" pos="NN" f="" content_p="1" POS="NN/capacitor/36">capacitor</word>
+    </phrase>
+    <phrase dpnd_cand="38:0.132086,34:0.867914" cat="NP" dpnd="38" role="" f="NP:NN/hole/37">
+      <word conj="" lem="hole" abs_wnum="37" read="" pos="NN" f="" content_p="1" POS="NP:NN/hole/37">hole</word>
+    </phrase>
+    <phrase dpnd_cand="33:0.867914,34:0.132086" cat="NP" dpnd="33" role="" f="NP:CD/30/38">
+      <word conj="" lem="&lt;@num-no:30&gt;" abs_wnum="38" read="" pos="CD" f="" content_p="1" POS="NP:CD/30/38">30</word>
+    </phrase>
+    <phrase dpnd_cand="26:0.352269,23:0.647731" cat="." dpnd="26" role="" f="././39">
+      <word conj="" lem="." abs_wnum="39" read="" pos="." f="" content_p="1" POS="././39">.</word>
+    </phrase>
+  </j_data>
+  <match i_p="5 4" j_p="3 4">
+    <word i_w="5 4" j_w="3 4"></word>
+  </match>
+  <match i_p="2" j_p="5">
+    <word i_w="2" j_w="5"></word>
+  </match>
+  <match i_p="3" j_p="6">
+    <word i_w="3" j_w="6"></word>
+  </match>
+  <match i_p="9" j_p="10">
+    <word i_w="9" j_w="10"></word>
+  </match>
+  <match i_p="11" j_p="11">
+    <word i_w="11" j_w="11"></word>
+  </match>
+  <match i_p="12" j_p="12">
+    <word i_w="12" j_w="12"></word>
+  </match>
+  <match i_p="13 14" j_p="13">
+    <word i_w="13 14" j_w="13"></word>
+  </match>
+  <match i_p="16" j_p="17">
+    <word i_w="16" j_w="17"></word>
+  </match>
+  <match i_p="17" j_p="18">
+    <word i_w="17" j_w="18"></word>
+  </match>
+  <match i_p="26" j_p="21">
+    <word i_w="26" j_w="21"></word>
+  </match>
+  <match i_p="27" j_p="22">
+    <word i_w="27" j_w="22"></word>
+  </match>
+  <match i_p="23" j_p="23">
+    <word i_w="23" j_w="23"></word>
+  </match>
+  <match i_p="21 22" j_p="24">
+    <word i_w="21 22" j_w="24"></word>
+  </match>
+  <match i_p="31 32 33 29 28" j_p="27 26">
+    <word i_w="31 32 33 29 28" j_w="27 26"></word>
+  </match>
+  <match i_p="45 44" j_p="29">
+    <word i_w="45 44" j_w="29"></word>
+    <j_deriv pnum="28"></j_deriv>
+  </match>
+  <match i_p="40" j_p="31">
+    <word i_w="40" j_w="31"></word>
+  </match>
+  <match i_p="41" j_p="32">
+    <word i_w="41" j_w="32"></word>
+  </match>
+  <match i_p="42 43" j_p="33">
+    <word i_w="42 43" j_w="33"></word>
+  </match>
+  <match i_p="35" j_p="36">
+    <word i_w="35" j_w="36"></word>
+  </match>
+  <match i_p="36" j_p="37">
+    <word i_w="36" j_w="37"></word>
+  </match>
+  <match i_p="37" j_p="38">
+    <word i_w="37" j_w="38"></word>
+  </match>
+  <match i_p="6" j_p="2">
+    <word i_w="6" j_w="2"></word>
+  </match>
+  <match i_p="18" j_p="15">
+    <word i_w="18" j_w="15"></word>
+  </match>
+  <match i_p="1" j_p="7">
+    <word i_w="1" j_w="7"></word>
+  </match>
+  <match i_p="15" j_p="8">
+    <word i_w="15" j_w="8"></word>
+  </match>
+  <match i_p="19" j_p="14">
+    <word i_w="19" j_w="14"></word>
+  </match>
+  <match i_p="38 39" j_p="34">
+    <word i_w="38 39" j_w="34"></word>
+  </match>
+</para_sentence>
